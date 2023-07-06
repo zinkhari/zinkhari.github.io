@@ -6649,6 +6649,11 @@ textarea.form-control-lg {
             mask-position: -200% 0%;
   }
 }
+
+.text-justify {
+  text-align: justify;
+}
+
 .clearfix::after {
   display: block;
   clear: both;
@@ -7524,6 +7529,10 @@ textarea.form-control-lg {
 .mx-0 {
   margin-right: 0 !important;
   margin-left: 0 !important;
+}
+
+.bold-paragraph {
+  font-weight: bold;
 }
 
 .mx-1 {
